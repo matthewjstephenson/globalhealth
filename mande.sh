@@ -1,0 +1,8 @@
+#!/bin/bash
+echo We present a novel Monitoring and Evaluation framework for improving maternal health outcomes by addressing the Three Delays Model. 
+Our approach targets four key outcomes across the maternal healthcare journey. 
+echo First, we're improving knowledge about maternal health, measured through group attendance and knowledge surveys, with a goal of 75% attendance among pregnant mothers within one year. Second, we're addressing 
+echo transportation challenges to reduce travel time to facilities by 50% within five years. 
+echo Third, we're increasing antenatal care uptake through community health worker visits, targeting four visits per pregnancy. Finally, we're working to reduce hospital wait times by up to 75% over 15 years, 
+echo ensuring mothers receive timely care once they arrive at facilities. Our measurement combines quantitative tracking with qualitative interviews to capture both statistical 
+echo improvements and mothers' lived experiences. This comprehensive approach allows us to monitor and improve each critical stage of maternal healthcare access, from decision-making through care delivery
