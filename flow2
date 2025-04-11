@@ -1,0 +1,253 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background and title -->
+  <rect x="0" y="0" width="1000" height="700" fill="#f8f9fa" rx="10" ry="10" />
+  <text x="500" y="40" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">Theory of Change for Global Health Resilience in Funding Crises</text>
+  
+  <!-- Main flow elements -->
+  <g id="flow-elements">
+    <!-- Challenges column -->
+    <rect x="50" y="80" width="150" height="60" rx="5" ry="5" fill="#e63946" stroke="#333" stroke-width="1.5" />
+    <text x="125" y="115" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Challenge Areas</text>
+    
+    <!-- Crisis Interventions column -->
+    <rect x="250" y="80" width="150" height="60" rx="5" ry="5" fill="#457b9d" stroke="#333" stroke-width="1.5" />
+    <text x="325" y="115" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Crisis-Driven Interventions</text>
+    
+    <!-- Strategic Adaptations column -->
+    <rect x="450" y="80" width="150" height="60" rx="5" ry="5" fill="#1d3557" stroke="#333" stroke-width="1.5" />
+    <text x="525" y="115" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Strategic Adaptations</text>
+    
+    <!-- Intermediate Outcomes column -->
+    <rect x="650" y="80" width="150" height="60" rx="5" ry="5" fill="#2a9d8f" stroke="#333" stroke-width="1.5" />
+    <text x="725" y="115" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="white">Intermediate Outcomes</text>
+    
+    <!-- Systemic Transformation column -->
+    <rect x="850" y="80" width="100" height="60" rx="5" ry="5" fill="#264653" stroke="#333" stroke-width="1.5" />
+    <text x="900" y="105" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Systemic</text>
+    <text x="900" y="125" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="white">Transformation</text>
+    
+    <!-- Flow arrows -->
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+      </marker>
+    </defs>
+    <line x1="200" y1="110" x2="250" y2="110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="110" x2="450" y2="110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="110" x2="650" y2="110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="110" x2="850" y2="110" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)" />
+  </g>
+  
+  <!-- Key Challenge Areas -->
+  <g id="challenge-areas">
+    <rect x="50" y="160" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="185" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Resource</text>
+    <text x="125" y="205" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Mobilization</text>
+    
+    <rect x="50" y="240" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="275" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Service Delivery</text>
+    
+    <rect x="50" y="320" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="345" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Governance &</text>
+    <text x="125" y="365" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Decision-Making</text>
+    
+    <rect x="50" y="400" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="435" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Violence Prevention</text>
+    
+    <rect x="50" y="480" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="515" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Health Workforce</text>
+    
+    <rect x="50" y="560" width="150" height="70" rx="5" ry="5" fill="#f8ad9d" stroke="#e63946" stroke-width="1.5" />
+    <text x="125" y="590" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Data & Innovation</text>
+  </g>
+  
+  <!-- Crisis Interventions -->
+  <g id="crisis-interventions">
+    <rect x="250" y="160" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="185" font-family="Arial" font-size="12" text-anchor="middle">• Emergency fundraising</text>
+    <text x="325" y="205" font-family="Arial" font-size="12" text-anchor="middle">• Temporary operational cuts</text>
+    <text x="325" y="225" font-family="Arial" font-size="12" text-anchor="middle">• Staff redeployment</text>
+    
+    <rect x="250" y="240" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="260" font-family="Arial" font-size="12" text-anchor="middle">• Triage of essential services</text>
+    <text x="325" y="280" font-family="Arial" font-size="12" text-anchor="middle">• Scaled-down operations</text>
+    <text x="325" y="300" font-family="Arial" font-size="12" text-anchor="middle">• Emergency-only care</text>
+    
+    <rect x="250" y="320" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="340" font-family="Arial" font-size="12" text-anchor="middle">• Crisis management teams</text>
+    <text x="325" y="360" font-family="Arial" font-size="12" text-anchor="middle">• Top-down protocols</text>
+    <text x="325" y="380" font-family="Arial" font-size="12" text-anchor="middle">• Reactive leadership</text>
+    
+    <rect x="250" y="400" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="420" font-family="Arial" font-size="12" text-anchor="middle">• Security protocols</text>
+    <text x="325" y="440" font-family="Arial" font-size="12" text-anchor="middle">• Limited engagement in</text>
+    <text x="325" y="460" font-family="Arial" font-size="12" text-anchor="middle">  high-risk areas</text>
+    
+    <rect x="250" y="480" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="500" font-family="Arial" font-size="12" text-anchor="middle">• Furloughs/layoffs</text>
+    <text x="325" y="520" font-family="Arial" font-size="12" text-anchor="middle">• Reduced compensation</text>
+    <text x="325" y="540" font-family="Arial" font-size="12" text-anchor="middle">• Burnout management</text>
+    
+    <rect x="250" y="560" width="150" height="70" rx="5" ry="5" fill="#a8dadc" stroke="#457b9d" stroke-width="1.5" />
+    <text x="325" y="580" font-family="Arial" font-size="12" text-anchor="middle">• Reduced monitoring</text>
+    <text x="325" y="600" font-family="Arial" font-size="12" text-anchor="middle">• Postponed research</text>
+    <text x="325" y="620" font-family="Arial" font-size="12" text-anchor="middle">• Limited tech investments</text>
+  </g>
+  
+  <!-- Strategic Adaptations -->
+  <g id="strategic-adaptations">
+    <rect x="450" y="160" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="180" font-family="Arial" font-size="11" text-anchor="middle">• Domestic resource mobilization</text>
+    <text x="525" y="195" font-family="Arial" font-size="11" text-anchor="middle">• South-South partnerships</text>
+    <text x="525" y="210" font-family="Arial" font-size="11" text-anchor="middle">• Diversified funding</text>
+    <text x="525" y="225" font-family="Arial" font-size="11" text-anchor="middle">• Community-based financing</text>
+    
+    <rect x="450" y="240" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="260" font-family="Arial" font-size="11" text-anchor="middle">• Community-led service models</text>
+    <text x="525" y="275" font-family="Arial" font-size="11" text-anchor="middle">• Integration of informal providers</text>
+    <text x="525" y="290" font-family="Arial" font-size="11" text-anchor="middle">• Task-shifting to CHWs</text>
+    <text x="525" y="305" font-family="Arial" font-size="11" text-anchor="middle">• Telehealth implementation</text>
+    
+    <rect x="450" y="320" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="335" font-family="Arial" font-size="11" text-anchor="middle">• Public Value Framework</text>
+    <text x="525" y="350" font-family="Arial" font-size="11" text-anchor="middle">• Co-creation with communities</text>
+    <text x="525" y="365" font-family="Arial" font-size="11" text-anchor="middle">• Human-centered design</text>
+    <text x="525" y="380" font-family="Arial" font-size="11" text-anchor="middle">• Transparent allocation</text>
+    
+    <rect x="450" y="400" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="420" font-family="Arial" font-size="11" text-anchor="middle">• Public health approach</text>
+    <text x="525" y="435" font-family="Arial" font-size="11" text-anchor="middle">• Community safety mapping</text>
+    <text x="525" y="450" font-family="Arial" font-size="11" text-anchor="middle">• Integration with health services</text>
+    <text x="525" y="465" font-family="Arial" font-size="11" text-anchor="middle">• Engagement with local leaders</text>
+    
+    <rect x="450" y="480" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="500" font-family="Arial" font-size="11" text-anchor="middle">• Capacity building for local staff</text>
+    <text x="525" y="515" font-family="Arial" font-size="11" text-anchor="middle">• Investing in CHWs</text>
+    <text x="525" y="530" font-family="Arial" font-size="11" text-anchor="middle">• South-to-South exchange</text>
+    <text x="525" y="545" font-family="Arial" font-size="11" text-anchor="middle">• Professional development</text>
+    
+    <rect x="450" y="560" width="150" height="70" rx="5" ry="5" fill="#bfdbf7" stroke="#1d3557" stroke-width="1.5" />
+    <text x="525" y="580" font-family="Arial" font-size="11" text-anchor="middle">• Low-cost monitoring solutions</text>
+    <text x="525" y="595" font-family="Arial" font-size="11" text-anchor="middle">• Open-source technologies</text>
+    <text x="525" y="610" font-family="Arial" font-size="11" text-anchor="middle">• Frugal innovation approaches</text>
+    <text x="525" y="625" font-family="Arial" font-size="11" text-anchor="middle">• Community-based data collection</text>
+  </g>
+  
+  <!-- Intermediate Outcomes -->
+  <g id="intermediate-outcomes">
+    <rect x="650" y="160" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="185" font-family="Arial" font-size="11" text-anchor="middle">• Reduced dependency on</text>
+    <text x="725" y="200" font-family="Arial" font-size="11" text-anchor="middle">  single-source funding</text>
+    <text x="725" y="215" font-family="Arial" font-size="11" text-anchor="middle">• Increased local ownership</text>
+    <text x="725" y="230" font-family="Arial" font-size="11" text-anchor="middle">• More predictable financials</text>
+    
+    <rect x="650" y="240" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="260" font-family="Arial" font-size="11" text-anchor="middle">• Maintained core services</text>
+    <text x="725" y="275" font-family="Arial" font-size="11" text-anchor="middle">• Increased community</text>
+    <text x="725" y="290" font-family="Arial" font-size="11" text-anchor="middle">  participation</text>
+    <text x="725" y="305" font-family="Arial" font-size="11" text-anchor="middle">• Optimized resource use</text>
+    
+    <rect x="650" y="320" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="345" font-family="Arial" font-size="11" text-anchor="middle">• Evidence-based prioritization</text>
+    <text x="725" y="360" font-family="Arial" font-size="11" text-anchor="middle">• Enhanced local agency</text>
+    <text x="725" y="375" font-family="Arial" font-size="11" text-anchor="middle">• Increased program</text>
+    <text x="725" y="390" font-family="Arial" font-size="11" text-anchor="middle">  effectiveness</text>
+    
+    <rect x="650" y="400" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="425" font-family="Arial" font-size="11" text-anchor="middle">• Safer access to care</text>
+    <text x="725" y="440" font-family="Arial" font-size="11" text-anchor="middle">• Reduced violence-related</text>
+    <text x="725" y="455" font-family="Arial" font-size="11" text-anchor="middle">  health burdens</text>
+    <text x="725" y="470" font-family="Arial" font-size="11" text-anchor="middle">• Enhanced community safety</text>
+    
+    <rect x="650" y="480" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="505" font-family="Arial" font-size="11" text-anchor="middle">• Maintained essential staffing</text>
+    <text x="725" y="520" font-family="Arial" font-size="11" text-anchor="middle">• Increased local expertise</text>
+    <text x="725" y="535" font-family="Arial" font-size="11" text-anchor="middle">• Enhanced staff resilience</text>
+    
+    <rect x="650" y="560" width="150" height="70" rx="5" ry="5" fill="#8ecae6" stroke="#2a9d8f" stroke-width="1.5" />
+    <text x="725" y="580" font-family="Arial" font-size="11" text-anchor="middle">• Maintained decision-relevant</text>
+    <text x="725" y="595" font-family="Arial" font-size="11" text-anchor="middle">  data</text>
+    <text x="725" y="610" font-family="Arial" font-size="11" text-anchor="middle">• Affordable technology adoption</text>
+    <text x="725" y="625" font-family="Arial" font-size="11" text-anchor="middle">• Context-appropriate solutions</text>
+  </g>
+  
+  <!-- Systemic Transformation -->
+  <g id="systemic-transformation">
+    <rect x="850" y="160" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="180" font-family="Arial" font-size="10" text-anchor="middle">• Self-reliant health</text>
+    <text x="900" y="195" font-family="Arial" font-size="10" text-anchor="middle">  systems</text>
+    <text x="900" y="210" font-family="Arial" font-size="10" text-anchor="middle">• Fiscal autonomy</text>
+    <text x="900" y="225" font-family="Arial" font-size="10" text-anchor="middle">• Financial sustainability</text>
+    
+    <rect x="850" y="240" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="260" font-family="Arial" font-size="10" text-anchor="middle">• More resilient care</text>
+    <text x="900" y="275" font-family="Arial" font-size="10" text-anchor="middle">  networks</text>
+    <text x="900" y="290" font-family="Arial" font-size="10" text-anchor="middle">• People-centered</text>
+    <text x="900" y="305" font-family="Arial" font-size="10" text-anchor="middle">  service models</text>
+    
+    <rect x="850" y="320" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="340" font-family="Arial" font-size="10" text-anchor="middle">• Decolonized global</text>
+    <text x="900" y="355" font-family="Arial" font-size="10" text-anchor="middle">  health structures</text>
+    <text x="900" y="370" font-family="Arial" font-size="10" text-anchor="middle">• Democratic health</text>
+    <text x="900" y="385" font-family="Arial" font-size="10" text-anchor="middle">  governance</text>
+    
+    <rect x="850" y="400" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="420" font-family="Arial" font-size="10" text-anchor="middle">• Violence addressed</text>
+    <text x="900" y="435" font-family="Arial" font-size="10" text-anchor="middle">  as public health issue</text>
+    <text x="900" y="450" font-family="Arial" font-size="10" text-anchor="middle">• Multi-sectoral</text>
+    <text x="900" y="465" font-family="Arial" font-size="10" text-anchor="middle">  prevention frameworks</text>
+    
+    <rect x="850" y="480" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="500" font-family="Arial" font-size="10" text-anchor="middle">• Self-sufficient health</text>
+    <text x="900" y="515" font-family="Arial" font-size="10" text-anchor="middle">  workforce</text>
+    <text x="900" y="530" font-family="Arial" font-size="10" text-anchor="middle">• Locally-led capacity</text>
+    <text x="900" y="545" font-family="Arial" font-size="10" text-anchor="middle">  building</text>
+    
+    <rect x="850" y="560" width="100" height="70" rx="5" ry="5" fill="#cad2c5" stroke="#264653" stroke-width="1.5" />
+    <text x="900" y="580" font-family="Arial" font-size="10" text-anchor="middle">• Innovation ecosystems</text>
+    <text x="900" y="595" font-family="Arial" font-size="10" text-anchor="middle">  in LMICs</text>
+    <text x="900" y="610" font-family="Arial" font-size="10" text-anchor="middle">• Data sovereignty</text>
+    <text x="900" y="625" font-family="Arial" font-size="10" text-anchor="middle">• Tech independence</text>
+  </g>
+  
+  <!-- Implementation Principles -->
+  <rect x="50" y="640" width="900" height="50" rx="5" ry="5" fill="#f1faee" stroke="#1d3557" stroke-width="1.5" />
+  <text x="500" y="660" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#1d3557">Implementation Principles</text>
+  <text x="200" y="680" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">Center on people in their contexts</text>
+  <text x="400" y="680" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">Build multidisciplinary collaboration</text>
+  <text x="600" y="680" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">Foster creativity and iteration</text>
+  <text x="800" y="680" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">Prioritize equity and inclusion</text>
+  
+  <!-- Flow arrows between stages -->
+  <g id="stage-arrows">
+    <line x1="200" y1="195" x2="250" y2="195" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="195" x2="450" y2="195" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="195" x2="650" y2="195" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="195" x2="850" y2="195" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    
+    <line x1="200" y1="275" x2="250" y2="275" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="275" x2="450" y2="275" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="275" x2="650" y2="275" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="275" x2="850" y2="275" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    
+    <line x1="200" y1="355" x2="250" y2="355" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="355" x2="450" y2="355" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="355" x2="650" y2="355" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="355" x2="850" y2="355" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    
+    <line x1="200" y1="435" x2="250" y2="435" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="435" x2="450" y2="435" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="435" x2="650" y2="435" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="435" x2="850" y2="435" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    
+    <line x1="200" y1="515" x2="250" y2="515" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="515" x2="450" y2="515" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="515" x2="650" y2="515" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="515" x2="850" y2="515" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    
+    <line x1="200" y1="595" x2="250" y2="595" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="400" y1="595" x2="450" y2="595" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="600" y1="595" x2="650" y2="595" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+    <line x1="800" y1="595" x2="850" y2="595" stroke="#333" stroke-width="1.5" marker-end="url(#arrowhead)" />
+  </g>
+</svg>
